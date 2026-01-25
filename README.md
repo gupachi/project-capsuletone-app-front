@@ -63,9 +63,6 @@ AI 기반 개인 약 복용 관리 및 증상별 맞춤형 추천 케어 애플�
 </details>
 
 
-
-
-
 ## 프로젝트 시연 
 <div align="center">
     <video src="https://github.com/user-attachments/assets/863d6156-2196-469e-8b0e-fdaa1d33a6c8" width="200" height="200" controls>
@@ -83,6 +80,9 @@ AI 기반 개인 약 복용 관리 및 증상별 맞춤형 추천 케어 애플�
 | <img width="1419" height="2796" alt="Image" src="https://github.com/user-attachments/assets/8678f657-04f1-438b-a58f-eb35072bbe21" /> |<img width="1419" height="2796" alt="Image" src="https://github.com/user-attachments/assets/be1e45a1-598b-423f-a087-b79004e6014d" /> | <img width="1419" height="2796" alt="Image" src="https://github.com/user-attachments/assets/90ee488f-7a39-4146-9434-7afbbf2c6ab2" /> |
 
 ## 느낀점
+이번 프로젝트를 통해 팀워크의 중요성을 깊이 체감했습니다.주차별 역할 분담과 문제 공유를 통해 협업의 효율성을 경험할 수 있었습니다.
+아이디어부터 결과까지 앱이 완성되는 과정을 직접 경험하며 개발에 대한 책임감과 실무 감각을 얻었습니다.
+
 
 
 
